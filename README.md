@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiwanshuVerma
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css & javascript
+- 🌱Currently learning NodeJs, databases
 
 - 📫 My email-diwanshu63019@gmail.com
 
