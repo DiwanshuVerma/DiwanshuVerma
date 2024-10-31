@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiwanshuVerma
 - 👀 I’m interested in web development
-- 🌱Currently learning NodeJs, databases
+- 🌱Currently learning Backend
 
-- 📫 My email-diwanshu63019@gmail.com
+- 📫 Email-diwanshu63019@gmail.com
 
 <!---
 DiwanshuVerma/DiwanshuVerma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
