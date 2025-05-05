@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DiwanshuVerma
-- 👀 I’m interested in web development
-- 🌱Currently learning Backend
+- 👋 Hi, I’m Diwanshu Verma
+- Full-stack developer from India
 
+- Open for freelance gigs, Software developer role:
 - 📫 Email-diwanshu63019@gmail.com
 
 <!---
